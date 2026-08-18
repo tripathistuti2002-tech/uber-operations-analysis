@@ -59,7 +59,7 @@ Designed an optimized MySQL schema resolving 13 analytical business queries acro
 Deployed **Power BI DAX measures** within the semantic model to maximize query performance and eliminate storage pre-computation:
 
 * **DAX Implementation:** Built time-intelligence logic for rush-hour metrics, custom measures for live conversion rates, and filtered logic for driver vs. customer cancellation analysis.
-* 
+  
 ### Interactive Executive Dashboard Views
 ### 📊 Executive Dashboard Views
 
