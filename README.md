@@ -60,16 +60,17 @@ Deployed **Power BI DAX measures** within the semantic model to maximize query p
 
 * **DAX Implementation:** Built time-intelligence logic for rush-hour metrics, custom measures for live conversion rates, and filtered logic for driver vs. customer cancellation analysis.
   
-### Interactive Executive Dashboard Views
+### Interactive Executive Dashboard Views -  https://1drv.ms/i/c/88C3D9BEA77C1D5F/IQBC4jFyxFc2QaoR_izOd_cHAe_8bMY8Ahj70_OmlKP3eCI?e=o1eyVw
 ###  Executive Dashboard Views
 
 1. **Executive Overview:** Tracks conversion health and key operational KPIs (**93K successful vs. 57K lost trips**).
 2. **Revenue Performance:** Visualizes payment method dominance (**UPI at ~45% share**) and monetization across vehicle tiers.
 3. **Cancellation Deep-Dive:** Renders root-cause matrices isolating drivers behind the **58.06% driver-side cancellation rate**.
 4. **Service & Fleet Trends:** Pinpoints operational friction and customer satisfaction dips in high-volume segments like ***Auto***.
+5.  
 ---
 
 ##  Strategic Business Recommendations
 
-* ** Surge Supply Incentives:** Deploy targeted driver completion bonuses during **Hour 17 (5 PM)** rush hour to combat the 58.06% driver-side rejection rate.
-* ** Auto Segment Quality Overhaul:** Address the platform's weakest operational tier through driver compliance audits and behavioral training workshops to stabilize overall trip conversion.
+* **# Surge Supply Incentives:** Deploy targeted driver completion bonuses during **Hour 17 (5 PM)** rush hour to combat the 58.06% driver-side rejection rate.
+* **#Auto Segment Quality Overhaul:** Address the platform's weakest operational tier through driver compliance audits and behavioral training workshops to stabilize overall trip conversion.
