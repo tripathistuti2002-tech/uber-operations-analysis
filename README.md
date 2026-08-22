@@ -67,7 +67,7 @@ Deployed **Power BI DAX measures** within the semantic model to maximize query p
 2. **Revenue Performance:** Visualizes payment method dominance (**UPI at ~45% share**) and monetization across vehicle tiers.
 3. **Cancellation Deep-Dive:** Renders root-cause matrices isolating drivers behind the **58.06% driver-side cancellation rate**.
 4. **Service & Fleet Trends:** Pinpoints operational friction and customer satisfaction dips in high-volume segments like ***Auto***.
-5.  
+  
 ---
 
 ##  Strategic Business Recommendations
